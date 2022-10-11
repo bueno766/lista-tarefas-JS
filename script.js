@@ -32,6 +32,7 @@ function add(){
     }
 
 }
+
 function deletar(id){
     var tarefa = document.getElementById(id);
     tarefa.remove();
